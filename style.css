@@ -45,7 +45,7 @@ nav a:hover {
   min-height: 90vh;
   background-image:
     linear-gradient(rgba(3, 18, 30, 0.45), rgba(0, 95, 110, 0.35)),
-    url("img/beach.jpg");
+    url("beach.jpg");
   background-size: cover;
   background-position: center;
   display: flex;
